@@ -9,7 +9,7 @@ app.get('/', (req, res) => {
 })
 
 app.get('/events', (req, res) => {
-    res.send('list of events')
+    res.send('list of events xx')
 })
 
 
